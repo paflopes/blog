@@ -1,0 +1,17 @@
+paflopes:
+  name:           Phillipe Lopes
+  avatar:         authors/paflopes.jpg
+  bio:            "Apaixonado por tecnologia, programação e afins, e um estudante nas horas vagas :)"
+  email:          phillipe.alcantara.fonseca@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github:         paflopes
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +PhillipeLopes
