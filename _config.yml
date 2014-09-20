@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            paflopes.github.io/blog
+description:      "Um blog de tutoriais sobre programação, frameworks e coisas que facilitam a vida."
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -8,14 +8,14 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Phillipe Lopes
+  avatar:         authors/paflopes.jpg
+  bio:            "Apaixonado por tecnologia, programação e afins, e um estudante nas horas vagas :)"
+  email:          phillipe.alcantara.fonseca@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         paflopes
   stackexchange:  
   linkedin:       
   instagram:      
@@ -23,7 +23,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +PhillipeLopes
 
 # Background image to be tiled on all pages
 background: 
@@ -44,16 +44,16 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 7
 
 kramdown:
   auto_ids: true
