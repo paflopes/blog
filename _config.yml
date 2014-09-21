@@ -40,9 +40,9 @@ bing_verify:
 links:
   # - title: Theme Setup
   #   url: /theme-setup
-  # - title: External Link
-  #   url: http://mademistakes.com
-  #   external: true
+  - title: LEDS
+    url: http://leds.sr.ifes.edu.br/
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
