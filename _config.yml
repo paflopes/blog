@@ -4,6 +4,7 @@ disqus_shortname: paflopes
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
+# url:              http://localhost:4000
 url:              https://paflopes.github.io/blog
 
 # Owner/author information
@@ -51,6 +52,9 @@ markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
+
+# Workaround for jekyll tag was never closed
+excerpt_separator: ""
 
 # Amount of post to show on home page
 paginate: 5
