@@ -211,6 +211,10 @@ Isso é tudo, agora é só dar deploy no container de sua preferência e ver o r
 
 Sugestões ou erros no exemplo? Comente :)
 
+Download:
+
+- [https://github.com/paflopes/springHelloWorld.git](https://github.com/paflopes/springHelloWorld.git)
+
 Referências: 
 
 - [Spring 3 MVC hello world example (mkyong.com)](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
