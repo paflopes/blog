@@ -29,8 +29,9 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {{ post.content | truncatewords: 70 }}<br>
   </div><!-- /.entry-content -->
+  <a href="{{ site.url }}{{ post.url }}">Saiba mais...</a>
 </article><!-- /.hentry -->
 {% endfor %}
 
