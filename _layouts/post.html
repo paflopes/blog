@@ -30,7 +30,7 @@
         {% else %}
           <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
         {% endif %}
-        <h2>{{ page.date | date: "%d/%e/%Y" }}</h2>
+        <h2>{{ page.date | date: "%d/%m/%Y" }}</h2>
         {% if site.reading_time %}
         <p class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
