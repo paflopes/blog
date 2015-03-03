@@ -14,7 +14,7 @@ Nosso projeto terá:
 
 - Um controlador que recebe uma requisição `GET` e retorna uma mensagem
 
-As tecnologias usadas serão:
+As tecnologias usadas serão utilizadas:
 
 - Spring 3.2.11-RELEASE
 - JDK 1.7
