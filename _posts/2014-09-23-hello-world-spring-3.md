@@ -3,10 +3,7 @@ layout: post
 title: "Hello World Spring 3"
 tags: [spring, spring mvc, java, java web, webdev]
 image:
-  feature: abstract-12.jpg
-  thumb: abstract-12.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: posts/2014-09-23/spring-framework.png
 comments: true
 share: true
 ---
