@@ -3,7 +3,7 @@ layout: post
 title: Como o JavaScript funciona?
 description: Os conceitos que você deve saber para se dar bem com JavaScript
 modified: 2015-02-27
-tags: [javascript]
+tags: [javascript, programação]
 image:
   feature: posts/2015-02-27-como-funciona-o-javascript/js-logo.png
 comments: true
